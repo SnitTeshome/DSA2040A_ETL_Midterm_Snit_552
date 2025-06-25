@@ -1,0 +1,10 @@
+order_id,customer_name,product,quantity,unit_price,order_date,region,month,total_price,revenue_category
+101,Alice,Laptop,1,900.0,2024-05-09,Central,5,900.0,High
+102,Unknown,Laptop,1,300.0,2024-05-07,Central,5,300.0,Medium
+103,Unknown,Laptop,1,600.0,2024-05-04,Central,5,600.0,High
+104,Unknown,Tablet,1,300.0,2024-05-26,Central,5,300.0,Medium
+105,Heidi,Tablet,2,600.0,2024-05-21,North,5,1200.0,Very High
+106,Unknown,Laptop,2,600.0,2024-05-18,Central,5,1200.0,Very High
+107,Unknown,Tablet,1,600.0,2024-05-13,Central,5,600.0,High
+108,Unknown,Laptop,1,600.0,2024-05-11,Not Specified,5,600.0,High
+109,Grace,Laptop,2,600.0,2024-05-29,Central,5,1200.0,Very High

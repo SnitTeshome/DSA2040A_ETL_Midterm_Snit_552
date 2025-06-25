@@ -1,0 +1,92 @@
+order_id,customer_name,product,quantity,unit_price,order_date,region,month,total_price,revenue_category
+1,Diana,Tablet,2,500.0,2024-01-20,South,1,1000.0,High
+3,Charlie,Laptop,2,250.0,2024-01-08,Not Specified,1,500.0,Medium
+4,Eve,Laptop,2,750.0,2024-01-07,West,1,1500.0,Very High
+5,Eve,Tablet,3,625.0,2024-03-07,South,3,1875.0,Very High
+7,Charlie,Monitor,2,750.0,2024-02-02,West,2,1500.0,Very High
+8,Charlie,Laptop,3,250.0,2024-02-17,Not Specified,2,750.0,High
+9,Charlie,Monitor,2,750.0,2024-03-16,West,3,1500.0,Very High
+10,Eve,Monitor,1,500.0,2024-02-28,North,2,500.0,Medium
+11,Unknown,Monitor,3,750.0,2024-04-24,West,4,2250.0,Very High
+12,Charlie,Tablet,2,750.0,2024-03-26,East,3,1500.0,Very High
+13,Frank,Tablet,1,750.0,2024-04-28,West,4,750.0,High
+14,Eve,Tablet,1,562.5,2024-01-22,South,1,562.5,High
+15,Bob,Laptop,1,250.0,2024-04-19,South,4,250.0,Medium
+16,Diana,Monitor,3,750.0,2025-01-01,East,1,2250.0,Very High
+17,Frank,Tablet,2,250.0,2024-02-07,North,2,500.0,Medium
+18,Frank,Tablet,1,250.0,2024-04-11,South,4,250.0,Medium
+19,Bob,Laptop,2,250.0,2024-04-18,Not Specified,4,500.0,Medium
+20,Diana,Tablet,1,250.0,2024-02-20,South,2,250.0,Medium
+21,Eve,Laptop,1,250.0,2024-02-23,South,2,250.0,Medium
+22,Alice,Phone,3,750.0,2024-01-08,North,1,2250.0,Very High
+23,Diana,Tablet,3,500.0,2024-01-27,West,1,1500.0,Very High
+24,Bob,Phone,2,750.0,2024-01-27,South,1,1500.0,Very High
+25,Frank,Laptop,2,250.0,2024-04-07,East,4,500.0,Medium
+26,Eve,Monitor,3,750.0,2024-01-21,West,1,2250.0,Very High
+27,Diana,Tablet,1,500.0,2024-01-30,Not Specified,1,500.0,Medium
+28,Alice,Laptop,2,250.0,2024-04-06,North,4,500.0,Medium
+29,Alice,Monitor,1,250.0,2024-01-28,Not Specified,1,250.0,Medium
+30,Charlie,Monitor,1,500.0,2024-04-20,West,4,500.0,Medium
+31,Charlie,Phone,3,750.0,2024-03-04,West,3,2250.0,Very High
+32,Bob,Laptop,2,750.0,2024-04-06,West,4,1500.0,Very High
+33,Diana,Monitor,2,500.0,2024-03-09,Not Specified,3,1000.0,High
+34,Diana,Tablet,2,500.0,2024-03-01,West,3,1000.0,High
+35,Frank,Tablet,3,750.0,2024-02-17,Not Specified,2,2250.0,Very High
+36,Frank,Phone,3,750.0,2024-01-19,West,1,2250.0,Very High
+37,Frank,Monitor,2,750.0,2024-01-04,East,1,1500.0,Very High
+39,Diana,Tablet,2,500.0,2024-03-04,Not Specified,3,1000.0,High
+41,Alice,Monitor,1,250.0,2024-01-17,West,1,250.0,Medium
+43,Eve,Tablet,1,638.8888888888889,2024-04-01,East,4,638.8888888888889,High
+44,Charlie,Tablet,2,250.0,2024-01-30,North,1,500.0,Medium
+45,Eve,Laptop,1,500.0,2024-04-02,East,4,500.0,Medium
+46,Alice,Tablet,2,250.0,2024-02-15,West,2,500.0,Medium
+48,Diana,Tablet,2,500.0,2024-01-06,South,1,1000.0,High
+49,Alice,Phone,2,625.0,2024-04-08,Not Specified,4,1250.0,Very High
+50,Diana,Tablet,3,250.0,2024-04-14,South,4,750.0,High
+51,Frank,Laptop,2,250.0,2024-02-06,Not Specified,2,500.0,Medium
+52,Bob,Laptop,3,500.0,2024-01-24,North,1,1500.0,Very High
+53,Bob,Phone,1,750.0,2024-04-02,West,4,750.0,High
+54,Alice,Tablet,1,750.0,2024-04-22,Not Specified,4,750.0,High
+55,Bob,Tablet,1,250.0,2024-02-15,North,2,250.0,Medium
+56,Eve,Phone,2,250.0,2024-02-22,South,2,500.0,Medium
+57,Bob,Tablet,1,750.0,2024-04-04,South,4,750.0,High
+58,Diana,Tablet,3,750.0,2024-04-08,North,4,2250.0,Very High
+59,Diana,Laptop,1,250.0,2024-02-29,South,2,250.0,Medium
+60,Diana,Tablet,2,750.0,2024-04-06,North,4,1500.0,Very High
+61,Diana,Tablet,2,750.0,2024-04-25,Not Specified,4,1500.0,Very High
+63,Charlie,Phone,2,750.0,2024-03-25,North,3,1500.0,Very High
+64,Frank,Monitor,3,500.0,2024-02-01,Not Specified,2,1500.0,Very High
+65,Alice,Laptop,1,369.04761904761904,2024-03-27,Not Specified,3,369.04761904761904,Medium
+66,Diana,Tablet,2,250.0,2024-02-02,Not Specified,2,500.0,Medium
+67,Bob,Tablet,1,750.0,2024-03-07,East,3,750.0,High
+68,Diana,Monitor,1,416.6666666666667,2024-01-18,West,1,416.6666666666667,Medium
+69,Bob,Tablet,3,750.0,2024-01-25,South,1,2250.0,Very High
+70,Frank,Laptop,2,250.0,2024-04-15,East,4,500.0,Medium
+71,Frank,Monitor,2,500.0,2024-04-04,Not Specified,4,1000.0,High
+72,Frank,Laptop,1,500.0,2024-02-23,North,2,500.0,Medium
+73,Bob,Monitor,2,500.0,2024-02-27,Not Specified,2,1000.0,High
+74,Diana,Monitor,2,500.0,2024-03-07,West,3,1000.0,High
+76,Eve,Laptop,2,500.0,2024-02-15,North,2,1000.0,High
+77,Bob,Tablet,2,750.0,2024-01-24,West,1,1500.0,Very High
+78,Bob,Tablet,3,750.0,2024-04-23,Not Specified,4,2250.0,Very High
+79,Diana,Laptop,1,500.0,2024-02-01,West,2,500.0,Medium
+80,Bob,Tablet,3,250.0,2024-02-16,South,2,750.0,High
+81,Bob,Tablet,3,750.0,2024-03-26,South,3,2250.0,Very High
+82,Frank,Laptop,2,250.0,2024-01-23,Not Specified,1,500.0,Medium
+83,Diana,Monitor,3,250.0,2024-03-06,West,3,750.0,High
+84,Frank,Laptop,1,500.0,2024-01-27,North,1,500.0,Medium
+85,Frank,Monitor,3,500.0,2024-04-15,Not Specified,4,1500.0,Very High
+86,Diana,Tablet,2,500.0,2024-01-02,South,1,1000.0,High
+87,Alice,Tablet,2,500.0,2024-03-30,South,3,1000.0,High
+88,Frank,Tablet,1,500.0,2024-01-17,Not Specified,1,500.0,Medium
+89,Eve,Phone,1,500.0,2024-04-13,West,4,500.0,Medium
+90,Eve,Monitor,2,750.0,2024-02-02,South,2,1500.0,Very High
+91,Bob,Phone,2,750.0,2024-01-09,West,1,1500.0,Very High
+92,Eve,Phone,2,250.0,2024-02-12,South,2,500.0,Medium
+93,Bob,Laptop,3,250.0,2024-04-27,South,4,750.0,High
+94,Alice,Phone,3,250.0,2024-02-17,East,2,750.0,High
+95,Diana,Laptop,1,250.0,2024-02-08,South,2,250.0,Medium
+97,Diana,Phone,1,250.0,2024-02-11,Not Specified,2,250.0,Medium
+98,Eve,Monitor,1,500.0,2024-04-28,Not Specified,4,500.0,Medium
+99,Alice,Monitor,1,250.0,2024-01-26,West,1,250.0,Medium
+100,Eve,Monitor,3,550.0,2024-04-08,South,4,1650.0,Very High
