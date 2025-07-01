@@ -1,11 +1,21 @@
-# Ignore Jupyter Notebook checkpoints
+## Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
 # Ignore Python bytecode cache
 __pycache__/
+*.pyc
 
 # Ignore log files
 *.log
 
-# Ignore SQLite database files
-*.sqlitegit update-index --assume-unchanged last_extraction.txt
+# Ignore dataset files (if large or sensitive — optional)
+data/*.csv
+
+# Ignore transformed CSV outputs
+transformed/*.csv
+
+# Ignore Parquet files (final loaded data)
+*.parquet
+
+# Ignore the loaded_data folder (if it exists)
+loaded_data/
