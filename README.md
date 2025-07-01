@@ -127,9 +127,11 @@ ETL_Midterm_Snit_552/                    # Root project directory
 
 ```
 ## *4. Tools Used*  
-*- Python & pandas*     #Data manipulation, cleaning, transformation, and loading
-*- Jupyter Notebooks*    #Interactive environment for building and documenting ETL
-*- Parquet (Snappy compression)*  #Efficient columnar file format for storing transformed data
+- *Python & pandas   #Data manipulation, cleaning, transformation, and loading*
+
+*Jupyter Notebooks   #Interactive environment for building and documenting ETL*
+
+- *Parquet (Snappy compression)  #Efficient columnar file format for storing transformed data*
 
 ## *5.How to Reproduce*
 
