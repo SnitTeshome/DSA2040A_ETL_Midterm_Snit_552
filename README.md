@@ -26,21 +26,21 @@
 ## *1. Extraction: etl_extract.ipynb*
 *This project begins with the **Extract Phase**, where retail transaction data from two CSV files—`raw_data.csv` and `incremental_data.csv`—were imported and inspected using pandas.*
 
-- *Source:* Raw retail data loaded from a CSV file.
-- *Action:* Initial inspection using `.head()` and `.info()` to assess structure and missing values.
+- *Source: Raw retail data loaded from a CSV file.*
+- *Action:Initial inspection using `.head()` and `.info()` to assess structure and missing values*
 
-*- **Datasets:**   
-  - `raw_data.csv`: 100 records × 7 columns  
-  - `incremental_data.csv`: 10 records × 7 columns*
+-  **Datasets:**   
+  - *`raw_data.csv`: 100 records × 7 columns* 
+  - *`incremental_data.csv`: 10 records × 7 columns*
 
-*- **Data Quality Insights:**  
-  - Missing values detected in key columns including `customer_name`, `quantity`, `unit_price`, `order_date`, and `region`.  
-  - One duplicate record found in `raw_data.csv`; none in `incremental_data.csv`.  
-  - Data type inconsistencies identified (e.g., `order_date` stored as object instead of datetime).  
-  - Numeric anomalies spotted, such as suspiciously low `unit_price` values.*
+- **Data Quality Insights:**  
+  - *Missing values detected in key columns including `customer_name`, `quantity`, `unit_price`, `order_date`, and `region`.* 
+  - *One duplicate record found in `raw_data.csv`; none in `incremental_data.csv`.*  
+  - *Data type inconsistencies identified (e.g., `order_date` stored as object instead of datetime).* 
+  - *Numeric anomalies spotted, such as suspiciously low `unit_price` values.*
 
-*- **Next Steps:**  
-  - Both datasets have been saved in the `data/` directory and are ready for the transformation and analysis phases.*
+-  **Next Steps:**  
+  - *Both datasets have been saved in the `data/` directory and are ready for the transformation and analysis phases.*
 
 ---
 
@@ -76,9 +76,9 @@ This phase involved a series of structured data cleaning, enrichment, and type c
 
 ### *Output*
 
-Both transformed datasets—full and incremental—were saved as `transformed_full.csv` and `transformed_incremental.csv` in the `data/` folder for downstream analysis.
+*Both transformed datasets—full and incremental—were saved as `transformed_full.csv` and `transformed_incremental.csv` in the `data/` folder for downstream analysis.*
 
-This comprehensive transformation ensures the data is clean, complete, and enriched, ready for insightful analytics and reporting.
+*This comprehensive transformation ensures the data is clean, complete, and enriched, ready for insightful analytics and reporting.*
 
 
 
@@ -106,7 +106,7 @@ This comprehensive transformation ensures the data is clean, complete, and enric
 *The notebook uses matplotlib to produce grouped bar charts that compare monthly revenue across products, providing clear insights into trends over time.* 
 
 
-## *3. Repository Structure*
+# *3. Repository Structure*
 ```plaintext
 ETL_Midterm_Snit_552/                    # Root project directory
 ├── data/                               
@@ -126,14 +126,14 @@ ETL_Midterm_Snit_552/                    # Root project directory
 └── .gitignore                          # Specifies files/folders to ignore in version control
 
 ```
-## *4. Tools Used*  
-- *Python & pandas   #Data manipulation, cleaning, transformation, and loading*
+# *4. Tools Used*  
+- *Python & pandas                           #Data manipulation, cleaning, transformation, and loading*
 
-- *Jupyter Notebooks   #Interactive environment for building and documenting ETL*
+- *Jupyter Notebooks                         #Interactive environment for building and documenting ETL*
 
-- *Parquet (Snappy compression)  #Efficient columnar file format for storing transformed data*
+- *Parquet (Snappy compression)             #Efficient columnar file format for storing transformed data*
 
-## *5.How to Reproduce*
+# *5.How to Reproduce*
 
 1. *Clone the repository:*
 
@@ -164,7 +164,7 @@ ETL_Midterm_Snit_552/                    # Root project directory
 
 ---
 
- ## *6.Screenshoots_of_Data_and_Chart* 
+ # *6.Screenshoots_of_Data_and_Chart* 
  ### *Screenshots of Data Tables*
  
 *All transformed files will be saved in the*
@@ -203,10 +203,10 @@ ETL_Midterm_Snit_552/                    # Root project directory
 *Recommendations include continuing the effective laptop sales strategy, supporting tablets with targeted promotions, and investigating the absence of sales for other products.*
 
 
-  ## *Repository URL*
+  # *Repository URL*
 [DSA2040A ETL Midterm Project Repository](https://github.com/SnitTeshome/DSA2040A_ETL_Midterm_Snit_552)
 
-## *License*
+# *License*
 
 This project is licensed under the [MIT License](LICENSE).
 
